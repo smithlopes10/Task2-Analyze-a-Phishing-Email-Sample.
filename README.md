@@ -53,17 +53,19 @@ https://click.pstmrk.it/3s/sweedbuy.com%2Fblog%2F/ahc/k_CuAQ/AQ/44a54f89-410d-47
    - "app ly" instead of "apply"
    - Extra spaces, inconsistent punctuation, and odd line breaks
 
-8. **Tools Used**
-   - mxtoolbox.com(Used for checking email server, DNS records, and detecting spam or phishing issues.)
-   - EML Analyzer(Used to inspect and analyze .eml email files)
-   - Virustotal(Analyse suspicious files, domains, IPs and URLs to detect malware)  
 
-9. **Summarize phishing traits found**
+8. **Summarize phishing traits found**
    - Spoofed sender domain.  
    - Fails DMARC/DKIM/SPF authentication.  
    - Suspicious links to non-Binance domains.  
    - Urgent/enticing message (airdrop).  
    - Possible grammar/style issues.  
+
+---
+## Tools Used
+ - **Mxtoolbox.com(Used for checking email server, DNS records, and detecting spam or phishing issues.)**
+ - **EML Analyzer(Used to inspect and analyze .eml email files)**
+ - **Virustotal(Analyse suspicious files, domains, IPs and URLs to detect malware)**
 
 ---
 
